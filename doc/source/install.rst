@@ -18,7 +18,7 @@ Verify the installation
 
 After installation, it is best to verify that the freshly-installed SymPy
 Plotting Backends work. To do this, start up Python and import the necessary
-functionalities, as shown below. To improve typing experience, the acutal name
+functionalities, as shown below. To improve typing experience, the actual name
 of the module has been set to `spb`::
 
     $ python
